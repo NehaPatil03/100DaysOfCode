@@ -41,6 +41,7 @@ I'll compile a list of resources, tutorials, and articles that I find helpful du
 I invite you to join me on this coding journey! You can follow my progress by visiting this repository and checking out the daily logs in the /logs directory. Feel free to leave comments, suggestions, or questions on the logs or projects.
 
 Let's connect on social media as well:
+
 Twitter: [@Neha_Patil_03](https://twitter.com/Neha_Patil_03)
 
 LinkedIn: [Neha Patil](https://www.linkedin.com/in/neha-patil-b47791256/)
