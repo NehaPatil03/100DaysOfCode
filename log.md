@@ -26,3 +26,12 @@
 
 <img src="https://github.com/NehaPatil03/100DaysOfCode/assets/113786127/ac638cfd-34c2-459b-a5e7-bbea333f784e" width="200" />
 
+### Day 4: August 22, 2023 
+**Today's Progress**: solving intermediate problems of java on codechef and complete the module
+
+**Topics Covered**: Logic Building Part-3.
+ 
+**Work Image**: 
+
+<img src="https://github.com/NehaPatil03/100DaysOfCode/assets/113786127/cc5fdbe5-abd4-4cb3-b16b-10c1841707a5" width="200" />
+
